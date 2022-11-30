@@ -26,7 +26,7 @@ public class List_Even {
 				list3.add(i);
 			}
 		}
-		System.out.println(list2);
+//		System.out.println(list2);
 		System.out.println(list3);
 		
 		//using stream
